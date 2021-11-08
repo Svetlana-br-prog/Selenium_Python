@@ -1,4 +1,4 @@
-# Selenium_Python :mortar_board:
+# Автоматизация тестирования с помощью Selenium и Python :mortar_board:
 
 Какие темы были затронуты в этом курсе: 
 
