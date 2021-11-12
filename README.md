@@ -8,10 +8,10 @@
 - Настраивание разных ожиданий для поиска элементов;</br>
 - Использование разных тестовых фреймворков; </br>
 - Как организовать код автотестов так, чтобы его было легко поддерживать и легко читать;
-1. Поиск элементов с помощью Selenium;
-2. Поиск элемента по тексту в ссылке;
-3. Использование метода find_elements_by (запонение 100 полей);
-4. Поиск элемента по XPath;
-5. Заполнение только обязательных полей;
+1. [Поиск элементов с помощью Selenium](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/find_element.py);
+2. [Поиск элемента по тексту в ссылке](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/find_link.py);
+3. [Использование метода find_elements_by (запонение 100 полей)](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/find_elementS_by.py);
+4. [Поиск элемента по XPath](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/find_xpath.py);
+5. [Заполнение только обязательных полей](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/required_fields.py);
 
 
