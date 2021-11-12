@@ -14,5 +14,7 @@
 - [Использование метода find_elements_by (запонение 100 полей)](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/find_elementS_by.py);
 - [Поиск элемента по XPath](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/find_xpath.py);
 - [Заполнение только обязательных полей](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/required_fields.py);
-
+2.
+- [Работа с элементами типа checkbox и radiobuttons](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/selenium_2/check_radio_2_1.py);
+- [Метод get_attribute](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/selenium_2/get_attribute_2_2.py);
 
