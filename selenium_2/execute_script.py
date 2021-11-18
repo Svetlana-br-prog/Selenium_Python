@@ -15,11 +15,11 @@ try:
     x = x_element.text
     input1 = browser.find_element_by_id("answer")
     input1.send_keys(fun(x))
+    # скролим страницу до нужных элементов
     browser.execute_script("window.scrollBy(0, 150);")
     checkbox1 = browser.find_element_by_id("robotCheckbox").click()
     radiobutton1 = browser.find_element_by_id("robotsRule").click()
     button = browser.find_element_by_tag_name("button").click()
-    # чтобы кликнуть на перекрытую кнопку
 
 finally:
     time.sleep(5)
