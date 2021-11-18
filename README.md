@@ -18,5 +18,5 @@
 - [Работа с элементами типа checkbox и radiobuttons](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/selenium_2/check_radio_2_1.py);
 - [Метод get_attribute](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/selenium_2/get_attribute_2_2.py);
 - [Работа с выпадающим списком](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/selenium_2/drop-down_list.py);
-- Метод execute_script, скролл страницы до нужного элемента;
+- [Метод execute_script, скролл страницы до нужного элемента](https://github.com/Svetlana-br-prog/Selenium_Python/blob/main/selenium_2/execute_script.py);
 
